@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">🌈 Contact Me 🌈</h3>
 <p align="center">
-  <a href="https://20s-hoon.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://20s-hoon.tistory.com/"/></a>&nbsp
   <a href="mailto:bjh4395@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=bjh4395@naver.com"/></a>
 </p>
 
